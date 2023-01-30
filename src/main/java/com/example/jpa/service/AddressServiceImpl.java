@@ -1,6 +1,5 @@
 package com.example.jpa.service;
 
-import com.example.jpa.exception.AddressNotFoundException;
 import com.example.jpa.model.AddressEntity;
 import com.example.jpa.model.dtos.AddressDTO;
 import com.example.jpa.model.mappers.AddressMapper;
